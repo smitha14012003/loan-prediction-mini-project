@@ -1,4 +1,4 @@
-# lone-prediction-mini-project
+# loan-prediction-mini-project
 
 STEPS DONE IN THIS MINI-PROJECT
 
